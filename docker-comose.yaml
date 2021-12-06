@@ -28,6 +28,6 @@ services:
 
 #Place your persistant volumes here 
 volumes:
-#   app_data:
+   app_data:
 
 
